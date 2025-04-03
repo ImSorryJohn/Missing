@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: e7ddff7509b842a4db7bd9dfa918cc70
+  productGUID: 20c69863a6f28d5448a5d4b68da3e279
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -930,7 +930,7 @@ PlayerSettings:
   cloudProjectId: ffe16891-325c-4463-a939-ef30084a591b
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
+  projectName: The Missing Game
   organizationId: imsorryjohn
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
