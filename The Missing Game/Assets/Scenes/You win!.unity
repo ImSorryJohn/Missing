@@ -458,7 +458,7 @@ GameObject:
   - component: {fileID: 798383640}
   - component: {fileID: 798383639}
   m_Layer: 0
-  m_Name: quitgame manager
+  m_Name: QuitGame
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
