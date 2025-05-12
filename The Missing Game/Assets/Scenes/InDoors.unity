@@ -2860,7 +2860,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   movSpeed: 2
-  vfxRenderer: {fileID: 0}
+  vfxRenderer: {fileID: 2055170821}
 --- !u!212 &688635521
 SpriteRenderer:
   m_ObjectHideFlags: 0
